@@ -1,0 +1,16 @@
+.container {
+    max-width:1180px;
+    max-height:1786px;
+}
+
+
+.cards {
+    display:flex;
+    gap: 2rem;
+}
+
+.card {
+    padding: 1rem;
+    background-color: #f3f3f3;
+    border-radius: 0.25rem;
+}
